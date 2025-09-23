@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohd-ahtasham-ansari
 - 👀 I’m interested in Machine learning and data science 
-- 🌱 I’m currently learning .Python from CS50 along with java
+- 🌱 Ive completed learning .Python from CS50 .
 - 💞️ I’m looking to collaborate on .Create a real world project
 - 📫 How to reach me -- my e mail- csaiml23086@glbitm.ac.in
 - 😄 Pronouns: he /him
