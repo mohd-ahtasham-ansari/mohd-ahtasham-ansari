@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohd-ahtasham-ansari
+- 👋 Hi, I’m @mohd-ahtasham-ansari (a curious engineering student)
 - 👀 I’m interested in Machine learning and data science 
 - 🌱 Ive completed learning .Python from CS50 .
 - 💞️ I’m looking to collaborate on .Create a real world project
