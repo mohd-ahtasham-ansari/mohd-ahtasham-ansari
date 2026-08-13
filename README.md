@@ -58,6 +58,50 @@ I build intelligent backend applications and AI-powered systems using modern Pyt
 - End-to-End AI Solutions
 
 ---
+## 🤝 Open Source & Team Contributions
+
+### 🎯 AI Lead — COE Management System
+
+Currently contributing as the **AI Lead** in the **COE Management System**, a large-scale academic operations platform developed by a collaborative engineering team.
+
+**My Responsibilities**
+
+* Designing the AI Assistant architecture
+* Building controlled AI tools for secure data access
+* Implementing intent routing and query handling
+* Integrating AI modules with FastAPI backend services
+* Developing recommendation and decision-support features
+* Reviewing pull requests and contributing to technical discussions
+
+**Architecture Focus**
+
+```text
+User
+ ↓
+AI Assistant
+ ↓
+Controlled AI Tools
+ ↓
+FastAPI Services
+ ↓
+PostgreSQL
+```
+
+**Key Technologies**
+
+* Python
+* FastAPI
+* PostgreSQL
+* LangChain
+* AI Tooling & Orchestration
+* REST APIs
+* Git & GitHub
+
+**Project Repository**
+https://github.com/coe-management-system/coe-management-system
+
+> Contributing to production-oriented AI systems with a focus on security, scalability, and maintainable software architecture.
+---
 
 ## 📈 GitHub Stats
 
