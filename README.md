@@ -104,7 +104,6 @@ https://github.com/coe-management-system/coe-management-system
 ---
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohd-ahtasham-ansari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="180"/>
