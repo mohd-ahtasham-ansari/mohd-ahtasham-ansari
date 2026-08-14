@@ -105,24 +105,7 @@ https://github.com/coe-management-system/coe-management-system
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohd-ahtasham-ansari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ahtasham-ansari&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ahtasham-ansari&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ahtasham-ansari&theme=tokyo-night&hide_border=true&radius=12" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohd-ahtasham-ansari&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
-
-<p align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=mohd-ahtasham-ansari&show_icons=true&theme=tokyonight)
 
