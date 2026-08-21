@@ -17,53 +17,47 @@ I build intelligent backend applications and AI-powered systems using modern Pyt
 ## 🚀 Tech Stack
 
 ### 🐍 Programming
-
-* Python
+- Python
 
 ### ⚡ Backend
-
-* FastAPI
-* REST APIs
-* PostgreSQL
-* SQLAlchemy
+- FastAPI
+- REST APIs
+- PostgreSQL
+- SQLAlchemy
 
 ### 🤖 AI & Machine Learning
-
-* Machine Learning
-* Large Language Models (LLMs)
-* LangChain
-* AI Agents
-* Retrieval-Augmented Generation (RAG)
-* Embeddings
-* Vector Databases
+- Machine Learning
+- Large Language Models (LLMs)
+- LangChain
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Databases
 
 ### 🌐 Frontend
-
-* React
-* HTML
-* CSS
-* Tailwind CSS
+- React
+- HTML
+- CSS
+- Tailwind CSS
 
 ### 🛠 Tools
-
-* Git
-* GitHub
-* Docker
-* Postman
-* VS Code
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
 
 ---
 
 ## 🌱 What I'm Building
 
-* AI-powered Backend Applications
-* LLM & RAG Systems
-* AI Agents & Automation
-* Production-ready REST APIs
-* End-to-End AI Solutions
+- AI-powered Backend Applications
+- LLM & RAG Systems
+- AI Agents & Automation
+- Production-ready REST APIs
+- End-to-End AI Solutions
 
 ---
-
 ## 🤝 Open Source & Team Contributions
 
 ### 🎯 AI Lead — COE Management System
@@ -104,25 +98,20 @@ PostgreSQL
 * Git & GitHub
 
 **Project Repository**
-
 https://github.com/coe-management-system/coe-management-system
 
 > Contributing to production-oriented AI systems with a focus on security, scalability, and maintainable software architecture.
-
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohd-ahtasham-ansari&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ahtasham-ansari&layout=compact&theme=tokyonight&hide_border=true"
- height="180"
-/>
+
+![](https://github-readme-stats.vercel.app/api?username=mohd-ahtasham-ansari&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohd-ahtasham-ansari&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ahtasham-ansari&layout=compact&theme=tokyonight)
 
 </p>
 
@@ -130,7 +119,7 @@ https://github.com/coe-management-system/coe-management-system
 
 ## 📫 Connect With Me
 
-📧 **Email:** [aahtasham102@gmail.com](mailto:aahtasham102@gmail.com)
+📧 **Email:** aahtasham102@gmail.com
 
 ---
 
